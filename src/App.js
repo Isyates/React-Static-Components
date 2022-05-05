@@ -1,9 +1,9 @@
-import logo from './logo.svg';
+
 import './App.css';
 import Analysis from './components/Analysis'
 import AverageRating from './components/AverageRating'
 import Reviews from './components/Reviews'
-import Dashboard from './components/Dashboard'
+import Dashboard from './components/Sentiment'
 import WebsiteVisitors from './components/WebsiteVisitors'
 
 
@@ -17,7 +17,6 @@ function App() {
       <Reviews/>
       <Dashboard/>
       <WebsiteVisitors/>
-
     </div>
   );
 }
