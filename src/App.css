@@ -1,1 +1,46 @@
 
+.App{
+    display:flex;
+    background-color: slategray;
+    height: max-content;
+}
+
+.Dashboard{
+    color:aliceblue;
+    box-sizing: border-box;
+    justify-content: flex-start;
+    height:500px;
+    width: max-content;
+    border: 10px;
+    background-color: rgba(19, 18, 18, 0.15);
+    margin: 10px;
+}
+
+.AverageRating{
+    width: max-content;
+    border: 10px;
+    background-color: rgba(19, 18, 18, 0.15);
+    margin: 10px;
+}
+
+.Analysis{
+    width: max-content;
+    border: 10px;
+    background-color: rgba(19, 18, 18, 0.15);
+    margin: 10px;
+}
+
+.Reviews{
+    width: max-content;
+    border: 10px;
+    background-color: rgba(19, 18, 18, 0.15);
+    margin: 10px;
+
+}
+
+.WebsiteVisitors{
+    width: max-content;
+    border: 10px;
+    background-color: rgba(19, 18, 18, 0.15);
+    margin: 10px;
+}
